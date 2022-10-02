@@ -1,0 +1,12 @@
+body {
+    background-color: #1C0C5B;
+    color: #fff;
+}
+
+table {
+    width: 400px;
+    height: 500px;
+    margin: 10px auto;
+    border-radius: 20px;
+    background-color: #3D2C8D;
+}
